@@ -1,0 +1,557 @@
+[
+    {
+        "provider": "Bell", 
+        "plan_name": "Migration Special - From Virgin Plus", 
+        "price_per_month": 45.00, 
+        "original_price": 80.00, 
+        "discount_conditions": ["Virgin Plus to Bell migration offer", "$10 Autopay"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "120 GB", 
+            "speed": "5G+", 
+            "unlimited_reduced_speed": true, 
+            "reduced_speed": "512 Kbps", 
+            "hotspot": true, 
+            "shareable": false
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "international_minutes": 1000, 
+            "international_countries": "27 countries", 
+            "roaming_destinations": "Canada and U.S."
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": ["Crave Basic"]
+        }, 
+        "additional_perks": [
+            "5G+ network access", 
+            "HD video streaming", 
+            "Hotspot capabilities", 
+            "Waived activation fee"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Virgin Plus"
+        }
+    }
+],
+[
+    {
+        "provider": "Bell", 
+        "plan_name": "Migration Premium - From Virgin Plus", 
+        "price_per_month": 60.00, "original_price": 90.00, 
+        "discount_conditions": ["Virgin Plus to Bell migration offer", "$10 Autopay"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "200 GB", 
+            "speed": "5G+", 
+            "unlimited_reduced_speed": true, 
+            "reduced_speed": "512 Kbps", 
+            "hotspot": true, 
+            "shareable": true
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "international_minutes": "Unlimited", 
+            "international_countries": "27 countries", 
+            "roaming_destinations": "Canada and U.S."
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": ["Crave Basic", "Perplexity Pro AI (1 year)"]
+        }, 
+        "additional_perks": [
+            "5G+ network access", 
+            "HD video streaming", 
+            "Hotspot capabilities", 
+            "Waived activation fee", 
+            "Priority customer support"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Virgin Plus"}
+        }
+],
+[
+    {
+        "provider": "Rogers", 
+        "plan_name": "Migration Ultimate - From Fido", 
+        "price_per_month": 65.00, 
+        "original_price": 100.00, 
+        "discount_conditions": ["Fido to Rogers migration offer", "$10 Autopay", "Family plan discount available"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "300 GB", 
+            "speed": "5G/5G+", 
+            "unlimited_reduced_speed": true, 
+            "reduced_speed": "512 Kbps", 
+            "hotspot": true, 
+            "shareable": true
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "international_minutes": "Unlimited", 
+            "international_countries": "27 countries", 
+            "roaming_destinations": "Canada and 64 destinations"
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": ["Sportsnet+ (3 months free)"]}, 
+            "additional_perks": [
+                "Rogers Satellite included", 
+                "3% cash back with Rogers Red card", 
+                "50% off Roam like home", 
+                "30% off Device Protection", 
+                "Waived activation fee"
+            ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["credit", "debit", "bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Fido"
+        }
+    }
+],
+[  
+    {
+        "provider": "Rogers", 
+        "plan_name": "Migration Premium Plus - From Fido", 
+        "price_per_month": 55.00, 
+        "original_price": 85.00, 
+        "discount_conditions": ["Fido to Rogers migration offer", "$10 Autopay"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "180 GB", 
+            "speed": "5G", 
+            "unlimited_reduced_speed": true, 
+            "reduced_speed": "512 Kbps", 
+            "hotspot": true, 
+            "shareable": true
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "international_minutes": "Unlimited", 
+            "international_countries": "27 countries", 
+            "roaming_destinations": "Canada and U.S."
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": []
+        }, 
+        "additional_perks": [
+            "3% cash back with Rogers Red card", 
+            "50% off Roam like home", 
+            "Waived activation fee"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["credit", "debit", "bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Fido"}
+    }
+],
+[
+    {
+        "provider": "Telus", 
+        "plan_name": "Migration 5G+ Complete - From Koodo", 
+        "price_per_month": 70.00, 
+        "original_price": 90.00, 
+        "discount_conditions": ["Koodo to Telus migration offer", "$10 Autopay"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "150 GB", 
+            "speed": "5G+", 
+            "unlimited_reduced_speed": true, 
+            "reduced_speed": "Reduced speed", 
+            "hotspot": true, 
+            "shareable": true
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "international_minutes": "Unlimited", 
+            "international_countries": "27 countries", 
+            "roaming_destinations": "Canada and U.S."
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": []
+        }, 
+        "additional_perks": [
+            "Premium financing with device discounts", 
+            "5-Year Rate Plan Price Lock", 
+            "Easy Roam from $5/day", 
+            "Blazing-fast speeds up to 2Gbps", 
+            "Waived activation fee"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Koodo"
+        }
+    }
+],
+[
+    {
+        "provider": "Telus", 
+        "plan_name": "Migration 5G+ Explore - From Koodo", 
+        "price_per_month": 95.00, 
+        "original_price": 120.00, 
+        "discount_conditions": ["Koodo to Telus migration offer", "$10 Autopay"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "300 GB", 
+            "speed": "5G+", 
+            "unlimited_reduced_speed": true, 
+            "reduced_speed": "Reduced speed", 
+            "hotspot": true, 
+            "shareable": true
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "international_minutes": "Unlimited", 
+            "international_countries": "68 countries", 
+            "roaming_destinations": "Canada and 68 international destinations"
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": true, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": []
+        }, 
+        "additional_perks": [
+            "Premium financing with device discounts", 
+            "5-Year Rate Plan Price Lock", 
+            "Easy Roam from $5/day", 
+            "Blazing-fast speeds up to 2Gbps", 
+            "Waived activation fee", 
+            "Priority support"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Koodo"
+        }
+    }
+],
+[
+    {
+        "provider": "Virgin Plus", 
+        "plan_name": "Prepaid to Postpaid - From Lucky Mobile", 
+        "price_per_month": 20.00, 
+        "original_price": 45.00, 
+        "discount_conditions": ["Lucky Mobile to Virgin Plus migration", "$10 Autopay"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "50 GB", 
+            "speed": "4G LTE", 
+            "unlimited_reduced_speed": false, 
+            "reduced_speed": "N/A", 
+            "hotspot": true, 
+            "shareable": false
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "international_minutes": 1000, 
+            "international_countries": "27 countries", 
+            "roaming_destinations": "Canada"
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": false, 
+            "included_services": []
+        }, 
+        "additional_perks": [
+            "Call Display", 
+            "Voicemail", 
+            "Call Waiting", 
+            "Conference Calling", 
+            "Suspicious call detection", 
+            "Waived activation fee"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["debit"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Lucky Mobile"
+        }
+    }
+],
+[
+    {
+        "provider": "Virgin Plus", 
+        "plan_name": "Prepaid to Postpaid Premium - From Lucky Mobile", 
+        "price_per_month": 35.00, 
+        "original_price": 50.00, 
+        "discount_conditions": [
+            "Lucky Mobile to Virgin Plus migration", 
+            "$10 Autopay credit"
+        ], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "80 GB", 
+            "speed": "5G", 
+            "unlimited_reduced_speed": false, 
+            "reduced_speed": "N/A", 
+            "hotspot": true, 
+            "shareable": false
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "international_minutes": 1000, 
+            "international_countries": "27 countries", 
+            "roaming_destinations": "Canada"}, 
+            "texting": {
+                "unlimited_canada": true, 
+                "unlimited_us": false, 
+                "unlimited_international": true
+            }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": []
+        }, 
+        "additional_perks": [
+            "Call Display", 
+            "Voicemail", 
+            "Call Waiting", 
+            "Conference Calling", 
+            "Suspicious call detection", 
+            "5G access", 
+            "Waived activation fee"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Lucky Mobile"
+        }
+    }
+],
+[
+    {
+        "provider": "Fido", 
+        "plan_name": "Prepaid to Postpaid - From Chatr", 
+        "price_per_month": 35.00, 
+        "original_price": 45.00, 
+        "discount_conditions": ["Chatr to Fido migration", "$10 Autopayt"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "50 GB", 
+            "speed": "4G LTE", 
+            "unlimited_reduced_speed": false, 
+            "reduced_speed": "N/A", 
+            "hotspot": true, 
+            "shareable": false
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "international_minutes": 500, 
+            "international_countries": "N/A", 
+            "roaming_destinations": "Canada"
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "unlimited_international": false
+        }, 
+        "streaming": {
+            "hd_video": false, 
+            "included_services": []
+        }, 
+        "additional_perks": [
+            "Hotspot included", 
+            "Use your plan abroad with Fido Roam", 
+            "3% cash back with Rogers Red credit card", 
+            "Waived activation fee"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["credit", "debit", "bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Chatr"
+        }
+    }
+],
+[
+    {
+        "provider": "Fido", 
+        "plan_name": "Prepaid to Postpaid Plus - From Chatr", 
+        "price_per_month": 42.00, 
+        "original_price": 55.00, 
+        "discount_conditions": ["Chatr to Fido migration", "$10 Autopay"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "80 GB", 
+            "speed": "4G LTE", 
+            "unlimited_reduced_speed": false, 
+            "reduced_speed": "N/A", 
+            "hotspot": true, 
+            "shareable": false
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "international_minutes": 1000, 
+            "international_countries": "International destinations", 
+            "roaming_destinations": "Canada"
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": []
+        }, 
+        "additional_perks": [
+            "Hotspot included", 
+            "Use your plan abroad with Fido Roam", 
+            "3% cash back with Rogers Red credit card", 
+            "Waived activation fee"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["credit", "debit", "bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Chatr"
+        }
+    }
+],
+[
+    {
+        "provider": "Koodo", 
+        "plan_name": "Prepaid to Postpaid - From Koodo Prepaid", 
+        "price_per_month": 38.00, 
+        "original_price": 50.00, 
+        "discount_conditions": ["Koodo Prepaid to Koodo Postpaid migration", "$10 Autopay"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "75 GB", 
+            "speed": "5G", 
+            "unlimited_reduced_speed": false, 
+            "reduced_speed": "N/A", 
+            "hotspot": true, 
+            "shareable": false
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "international_minutes": "Unlimited", 
+            "international_countries": "Select countries", 
+            "roaming_destinations": "Canada"
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": []
+        }, 
+        "additional_perks": [
+            "Shock-Free Data", 
+            "Pick 1 FREE Perk (Unlimited Long Distance Pack)", 
+            "Waived activation fee"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Koodo Prepaid"
+        }
+    }
+],
+[
+    {
+        "provider": "Koodo", 
+        "plan_name": "Prepaid to Postpaid Premium - From Koodo Prepaid", 
+        "price_per_month": 43.00, 
+        "original_price": 60.00, 
+        "discount_conditions": ["Koodo Prepaid to Koodo Postpaid migration", "$10 Autopay"], 
+        "offer_expiry": "N/A", 
+        "data": {
+            "high_speed_amount": "100 GB", 
+            "speed": "5G", 
+            "unlimited_reduced_speed": true, 
+            "reduced_speed": "Reduced speed", 
+            "hotspot": true, 
+            "shareable": false
+        }, 
+        "calling": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "international_minutes": "Unlimited", 
+            "international_countries": "27 countries", 
+            "roaming_destinations": "Canada"
+        }, 
+        "texting": {
+            "unlimited_canada": true, 
+            "unlimited_us": false, 
+            "unlimited_international": true
+        }, 
+        "streaming": {
+            "hd_video": true, 
+            "included_services": []
+        }, 
+        "additional_perks": [
+            "Shock-Free Data", 
+            "Pick 1 FREE Perk (Unlimited Long Distance Pack)", 
+            "Easy Roam available", "Waived activation fee"
+        ], 
+        "metadata": {
+            "activation_fee": false, 
+            "autopay_method": ["bank account"], 
+            "best_buy_gc": "$50", 
+            "migration_from": "Koodo Prepaid"
+        }
+    }
+]
